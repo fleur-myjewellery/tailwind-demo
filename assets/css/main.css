@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    --background-gray: #f6f5f5;
+  }
+
+h1{
+    @apply font-medium;
+    @apply text-lg;
+
+    /* OR */
+    /* 
+        font-size: Xpx;
+        font-weight: 500;
+    */
+}
+
+p{
+    @apply text-sm
+
+    /* OR */
+    /* 
+    font-size: Xpx; */
+}
