@@ -19,7 +19,9 @@
     color: white;
     display: flex;
     justify-content: center;
+    align-items: center;
     width: 12rem;
+    height: 3.5rem;
     border-radius: 0.375rem;
     transition: box-shadow 0.2s ease-in-out;
 

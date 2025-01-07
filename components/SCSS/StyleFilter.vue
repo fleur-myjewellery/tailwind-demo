@@ -2,7 +2,7 @@
     <div class="stylefilter">
         <div class="stylefilter__title">
             <h1>
-                Select and Find your matches
+                Select and Find your matches ✨
             </h1>
             <p>
                 Ontdek alle items passend bij jouw style
