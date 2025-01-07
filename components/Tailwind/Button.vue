@@ -1,5 +1,5 @@
 <template>
-    <button class="bg-black p-6 text-white flex justify-center w-48 rounded-md hover:shadow-md">
+    <button class="bg-black w-48 h-14 p-6 text-white flex justify-center items-center rounded-md hover:shadow-md">
         {{ title }}
     </button>
 </template>
